@@ -1,7 +1,7 @@
 
 # Ambientes Virtuales
 
->* **$ python3 -m venv venv**
+>* ```$ python3 -m venv venv```
 >>Creación de un entorno virtual.  
   El primer **venv** llama al módulo (**-m**) y lo llamamos **"venv"** por convención  
 
